@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ForceFinish</string>
+
+    <string name="dialog_message">I\'m going to shutdown everything now!</string>
+    <string name="dialog_title">Tap to close</string>
+    <string name="ok">Do it!</string>
+</resources>
